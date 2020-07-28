@@ -1,0 +1,5 @@
+1. cmd에서 Working Directory로 이동
+2. 파일 추가
+3. git add * 또는 git add "파일명"
+4. git commit -m "메시지"
+5. git push
