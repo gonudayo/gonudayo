@@ -8,7 +8,7 @@
   세상 예민한 감각으로 개발하여, 불편한 게 없어서 불편한 서비스를 제공하는 게 목표입니다 🎉 <br/><br/>
 </p>
 
-### 🦾 Skills
+### 👑 Skills
 #### Languages & Platforms 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
