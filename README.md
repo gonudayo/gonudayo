@@ -3,12 +3,13 @@
   <a href="mailto:kimgunwoo@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/kimgunwoo@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white"/></a>
 </p>
 
+### Hi, I'm GunWoo Kim !
 <p>
-  👋&nbsp; 안녕하십니까! <b>Backend Developer</b>를 꿈꾸며, 공부하고 있는 <b>김건우</b>입니다. 🚀<br/><br/>
-  세상 예민한 감각으로 개발하여, 불편한 게 없어서 불편한 서비스를 제공하는 게 목표입니다 🎉 <br/><br/>
+  👋&nbsp; 안녕하십니까! <b>Backend Developer</b>를 꿈꾸며, 공부하고 있는 <b>김건우</b>입니다.<br/><br/>
+  세상 예민한 감각으로 개발하여, 불편한 게 없어서 불편한 서비스를 제공하는 것이 목표입니다 🎉 <br/>
 </p>
 
-### 👑 Skills
+### 💪 Skills
 #### Languages & Platforms 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -21,3 +22,18 @@
 <p>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
+
+### 🚀 My Github Stats
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=gonudayo&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonudayo&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
+
+### 👑 Solved.ac Tier
+
+<a href="https://solved.ac/profile/gonudayo">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gonudayo&cache=c">
+</a>
