@@ -3,9 +3,9 @@
   <a href="mailto:kimgunwoo@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/kimgunwoo@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white"/></a>
 </p>
 
-### Hi, I'm GunWoo Kim !
+### 👋 Hello!
 <p>
-  👋&nbsp; 안녕하십니까! <b>Backend Developer</b>를 꿈꾸며, 공부하고 있는 <b>김건우</b>입니다.<br/><br/>
+  안녕하십니까! <b>Backend Developer</b>를 꿈꾸며, 공부하고 있는 <b>김건우</b>입니다.<br/><br/>
   세상 예민한 감각으로 개발하여, 불편한 게 없어서 불편한 서비스를 제공하는 것이 목표입니다 🎉 <br/>
 </p>
 
