@@ -22,17 +22,9 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🚀 My Github Stats
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonudayo&theme=react&show_icons=true" height="180px">
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonudayo&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
-</a>
-
 ### 👑 Solved.ac Tier
 
 <a href="https://solved.ac/profile/gonudayo">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gonudayo&cache=c">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gunwoo&cache=c">
 </a>
