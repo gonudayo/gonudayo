@@ -5,7 +5,7 @@
 
 ### 👋 Hello!
 <p>
-  안녕하십니까! <b>Backend Developer</b> <b>김건우</b>입니다.<br/><br/>
+  안녕하십니까! <b>Backend Developer</b> <b>김건우</b>입니다.<br/>
 </p>
 
 ### 💪 Skills
@@ -22,7 +22,9 @@
 
 ### 👑 Solved.ac Tier
 
-<a href="https://solved.ac/profile/gonudayo">
+<p>
+  <b>C++</b></br>
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gonudayo&cache=c">
+  </br><b>Python</b></br>
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gunwoo&cache=c">
-</a>
+</p>
