@@ -24,7 +24,7 @@
 
 <p>
   <b>C++</b></br>
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gonudayo&cache=c">
+  <a href="https://solved.ac/profile/gonudayo" target="_blank"><img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gonudayo&cache=c"></a>
   </br><b>Python</b></br>
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gunwoo&cache=c">
+  <a href="https://solved.ac/profile/gunwoo" target="_blank"><img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gunwoo&cache=c"></a>
 </p>
