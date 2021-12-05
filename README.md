@@ -1,9 +1,14 @@
+#### 🤙 Contact me
 <p>
-  <a href="https://velog.io/@gonudayo/" target="_blank"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="mailto:kimgunwoo@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/kimgunwoo@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white"/></a>
+  <br>
+  <a href="https://open.spotify.com/user/tid50r737huqem85120vai83d"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>
+  <a href="https://velog.io/@gonudayo/" target="_blank"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
 </p>
+<br>
 
-  #### 👋 Salute!
+  #### 🙋‍♂️ Salute!
 <p>
   I'm <b>Back-end Developer</b> with over a year of well-rounded experience.
   <br>
@@ -29,8 +34,5 @@
 
 #### 👑 Solved.ac Tier (Algorithm skill)
 <p>
-  <b>C++</b></br>
-  <a href="https://solved.ac/profile/gonudayo" target="_blank"><img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gonudayo&cache=c"></a>
-  </br><b>Python</b></br>
-  <a href="https://solved.ac/profile/gunwoo" target="_blank"><img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=gunwoo&cache=c"></a>
+  <a href="https://solved.ac/profile/gonudayo" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=gonudayo&theme=dark"/></a>
 </p>
